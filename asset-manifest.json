@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swiftcart/static/css/main.46ccdd5c.css",
+    "main.js": "/swiftcart/static/js/main.033763fb.js",
+    "static/js/787.05468417.chunk.js": "/swiftcart/static/js/787.05468417.chunk.js",
+    "index.html": "/swiftcart/index.html",
+    "main.46ccdd5c.css.map": "/swiftcart/static/css/main.46ccdd5c.css.map",
+    "main.033763fb.js.map": "/swiftcart/static/js/main.033763fb.js.map",
+    "787.05468417.chunk.js.map": "/swiftcart/static/js/787.05468417.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46ccdd5c.css",
+    "static/js/main.033763fb.js"
+  ]
+}
