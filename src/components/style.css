@@ -1,0 +1,115 @@
+.LoginSignup{
+    text-align: center;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-image: linear-gradient(79deg, #7439db, #C66FBC 48%, #F7944D);
+}
+
+label{
+  color:black
+}
+h3 {
+  color:black
+}
+input{
+  opacity: 70%;
+}
+
+
+/* Styling for DashCard */
+.card{
+  display: flex;
+  align-items: center;
+  padding: 10px;
+    margin-top: 5px;
+    border: 2px solid black;
+    background-color: lightgoldenrodyellow;
+}
+
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+.next {
+  background-color: #04AA6D;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+
+
+/* Craousel */
+.carouselBody {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f0f0f0;
+  width: 70%;
+
+}
+
+.carousel-container {
+  width: 80%;
+  overflow: hidden;
+}
+
+.carousel {
+  display: flex;
+  transition: transform 0.3s ease-in-out;
+}
+
+.carousel-item {
+  min-width: 100%;
+  flex-shrink: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.imgside{
+  width: 30%;
+}
+
+#brand{
+  font-size: large;
+  align-items: center;
+  font-weight: bold;
+  margin-top: 100px;
+
+}
+.imgbelow{
+    width: 100%;
+}
+
+.card-body{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.fill{
+  display: flex;
+  /* flex-wrap: wrap; */
+  /* align-content: flex-end; */
+  justify-content: space-between;
+}
+.fill > img {
+  width: 398px;
+  height: 500px;
+ 
+}
+.imgbelow{
+  font-weight: bold;
+}
