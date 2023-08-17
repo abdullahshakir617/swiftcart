@@ -32,7 +32,7 @@ export default function LoginSingup(props) {
 
         } else {
             // setMessage('Login failed. Please check your username and password.');
-            alert('Login failed. Please check your username and password.')
+            alert('Login failed. Please check your username and password or Signup first')
         }
     }
 
